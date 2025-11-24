@@ -1,0 +1,7 @@
+{
+  "name": "女王的衣橱：无限恋爱",
+  "description": "一款无限流乙女冒险游戏，选择神级套装获得开挂能力，攻略各族忠犬/病娇男主。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
